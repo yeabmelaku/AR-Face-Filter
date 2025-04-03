@@ -21,5 +21,5 @@ An AR Face Filter application using OpenCV that applies real-time effects like g
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/AR-Face-Filter.git
+   git clone https://github.com/yeabmelaku/AR-Face-Filter.git
    cd AR-Face-Filter

@@ -180,10 +180,10 @@ def main():
     
     # Load different overlay images
     overlays = {
-        '1': load_overlay_image("sunglasses.png"),
-        '2': load_overlay_image("party_glasses.png"),
-        '3': load_overlay_image("cool_mask.png"),
-        '4': load_overlay_image("hat.png")
+        '1': load_overlay_image("filters/sunglasses.png"),
+        '2': load_overlay_image("filters/party_glasses.png"),
+        '3': load_overlay_image("filters/cool_mask.png"),
+        '4': load_overlay_image("filters/hat.png")
     }
     
     current_overlay = overlays['1']  # Default overlay

@@ -7,10 +7,8 @@ An AR Face Filter application using OpenCV that applies real-time effects like g
 - **Overlay Filters**: Add fun overlays like sunglasses, party glasses, masks, and hats.
 - **Special Effects**:
   - Cartoon effect
-  - Warm (orange tint) effect
-  - Cool (blue tint) effect
   - Rainbow effect
-  - Edge detection
+    
 - **Keyboard Controls**: Switch between filters and effects easily.
 
 ## Requirements
